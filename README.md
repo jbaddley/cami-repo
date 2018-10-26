@@ -6,6 +6,8 @@ https://developers.google.com/maps/documentation/javascript/adding-a-google-map
 Current weather:
 http://openweathermap.org/current
 
+Use the video as a guide for what your assignment should do.
+
 Please use React to accomplish this assignment.
 
 You can either use React or React with Typescript. You will not be judged poorly if you don't use Typescript, it will just help us know where you are at.
@@ -23,3 +25,5 @@ git commit -m "message for this commit"
 git push
 
 You don't need to create a new branch, just push to master.
+
+Good Luck!
